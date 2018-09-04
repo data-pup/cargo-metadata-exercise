@@ -1,0 +1,12 @@
+[package]
+name = "cargo-metadata-ex"
+version = "0.1.0"
+authors = ["data-pup <kevinmartinucr@gmail.com>"]
+
+[dependencies]
+cargo_metadata = "0.6.0"
+serde = "1.0.74"
+serde_derive = "1.0.74"
+serde_json = "1.0.26"
+toml = "0.4"
+
